@@ -1,8 +1,8 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "отчет по лабораторной работе 3"
+subtitle: "язык разметки Markdown"
+author: "Зацева Пелагея Евгеньевна"
 
 ## Generic otions
 lang: ru-RU
